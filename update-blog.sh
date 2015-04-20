@@ -5,7 +5,7 @@ git add .
 git commit -m "add some content"
 git push -u origin master
 cd ../
-cd Sundabao.github.io
+cd sundabao.github.io
 git add .
 git commit -m "add some content"
 git push -u origin master
