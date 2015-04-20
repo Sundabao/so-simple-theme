@@ -3,7 +3,7 @@
 title: Da bao's home 
 locale: en_US
 description: Describe your website here.
-destination: ../Sundabao.github.io
+destination: ../sundabao.github.io
 logo: site-logo.png
 search: true
 url: http://localhost:4000
