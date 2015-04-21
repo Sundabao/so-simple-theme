@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Da bao's home 
+title: 大宝的家
 locale: en_US
-description: This is dabao's .
+description: 大宝，来自天津的可爱姑娘.
 destination: ../sundabao.github.io
 logo: site-logo.png
 search: true
