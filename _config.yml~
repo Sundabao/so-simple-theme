@@ -2,11 +2,11 @@
 
 title: Da bao's home 
 locale: en_US
-description: This is dabao's .
+description: .
 destination: ../sundabao.github.io
 logo: site-logo.png
 search: true
-url: http://sunyongzheng.com
+url: http://localhost:4000
 
 # Jekyll configuration
 
